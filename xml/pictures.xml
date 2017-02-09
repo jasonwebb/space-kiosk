@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<picture>
+		<name>Daybreak at Gale Crater</name>
+		<filename>gale-crater.jpg</filename>
+		<width>1600</width>
+		<height>900</height>
+	</picture>
+	<picture>
+		<name>Mars Science Laboratory Launches</name>
+		<filename>msl-launch.jpg</filename>
+		<width>1200</width>
+		<height>900</height>
+	</picture>
+	<picture>
+		<name>Air Tunnel Test at Langley</name>
+		<filename>wind-tunnel.jpg</filename>
+		<width>1168</width>
+		<height>900</height>
+	</picture>
+	<picture>
+		<name>Buzz Aldrin with American Flag on Moon</name>
+		<filename>aldrin-salute.jpg</filename>
+		<width>800</width>
+		<height>637</height>
+	</picture>
+	<picture>
+		<name>Apollo 11 Launch</name>
+		<filename>apollo-11-launch.jpg</filename>
+		<width>656</width>
+		<height>900</height>
+	</picture>
+	<picture>
+		<name>International Space Station</name>
+		<filename>iss.jpg</filename>
+		<width>1200</width>
+		<height>900</height>
+	</picture>
+	<picture>
+		<name>Flight simulator at Langley</name>
+		<filename>flight-sim.jpg</filename>
+		<width>1200</width>
+		<height>900</height>
+	</picture>
+	<picture>
+		<name>Full disc image of our Sun</name>
+		<filename>sun.jpg</filename>
+		<width>1107</width>
+		<height>900</height>
+	</picture>
+	<picture>
+		<name>Mars rover Curiousity</name>
+		<filename>mars-curiosity.jpg</filename>
+		<width>1304</width>
+		<height>900</height>
+	</picture>
+</data>

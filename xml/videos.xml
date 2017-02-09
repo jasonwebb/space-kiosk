@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<video>
+		<name>Mars in a Minute</name>
+		<filename>mars-in-a-minute.flv</filename>
+	</video>
+	<video>
+		<name>Life on Mars</name>
+		<filename>life-on-mars.flv</filename>
+	</video>
+	<video>
+		<name>Atlas launch</name>
+		<filename>atlas-launch.flv</filename>
+	</video>
+	<video>
+		<name>Hubble Space Telescope</name>
+		<filename>hubble.flv</filename>
+	</video>
+</data>

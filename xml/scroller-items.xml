@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<item>
+		<name>Hubble Space Telescope</name>
+		<description>The Hubble Space Telescope is a large telescope in space. It was launched by NASA in 1990. Hubble is the length of a large school bus. It weighs as much as two adult elephants. Hubble travels around Earth at about 5 miles per second.</description>
+		<picture>hubble.png</picture>
+	</item>
+	<item>
+		<name>International Space Station</name>
+		<description>The International Space Station is a large spacecraft. It orbits around Earth. It is a home where astronauts live. The space station is also a science lab. Many countries worked together to build it. They also work together to use it.</description>
+		<picture>iss.png</picture>
+	</item>
+	<item>
+		<name>Spacesuit</name>
+		<description>A spacesuit is more than clothes astronauts wear in space. The suit is really a small spacecraft. It protects the astronaut from the dangers of being outside in space.</description>
+		<picture>spacesuit.png</picture>
+	</item>
+</data>

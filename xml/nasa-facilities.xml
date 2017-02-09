@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<facility>
+		<name>Jet Propulsion Laboratory</name>
+		<location>Pasadena, California</location>
+		<description>Nasa’s Jet Propulsion Lab (JPL) helps us reach for the stars!  Explorer 1, the United States’ first satellite to go into space, was built and controlled by the JPL over 50 years ago.</description>
+		<picture></picture>
+		<coordinates>527,844</coordinates>
+	</facility>
+	<facility>
+		<name>Kennedy Space Center</name>
+		<location>Florida</location>
+		<description>The Kennedy Space Center has launched every American space mission into outer space.  The International Space Station, Hubble Space Telescope and the Mars Exploration Rovers were all launched into space from the Kennedy center.  As the nation embarks on a new chapter in space exploration, the Kennedy Space Center will continue to make history.</description>
+		<picture></picture>
+		<coordinates>1338,1016</coordinates>
+	</facility>
+	<facility>
+		<name>Langley Research Center</name>
+		<location>Hampton, Virginia</location>
+		<description>Scientists at Langley have helped NASA build better and faster space shuttles and airplanes.  Astronauts can also train here and can learn how to meet in space and land on the moon.  Neil Amstrong learned how to be an astronaut at Langley and was the first man to walk on the moon.</description>
+		<picture></picture>
+		<coordinates>1358,813</coordinates>
+	</facility>
+	<facility>
+		<name>Marshall Space Flight Center</name>
+		<location>Huntsville, Alabama</location>
+		<description>The Marshall Space Flight Center has helped NASA build better rockets, make it possible to live and work in space, and discover new ways to understand our world and beyond.  Marshall also provided the rockets that first took us to the moon over 40 years ago!</description>
+		<picture></picture>
+		<coordinates>1195,877</coordinates>
+	</facility>
+	<facility>
+		<name>Glenn Research Center</name>
+		<location>Cleveland, Ohio</location>
+		<description>Glenn Research Center designs new technology for space that allows us to explorer more and more of the universe. They have a space simulator that helps scientists test equipment before it goes into space and create technology that revolutionizes air travel. Glenn inspires the next generation of explorers to dream big.</description>
+		<picture></picture>
+		<coordinates>1249,733</coordinates>
+	</facility>
+	<facility>
+		<name>Johnson Space Center</name>
+		<location>Houston, Texas</location>
+		<description>The Johnson Space Center is home to NASA’s astronaut corp. The center is responsible for the training of space explorers from the United States and our space station partner nations. Astronauts, engineers and other space flight professionals learn skills and procedures to help them operate equipment during a mission.</description>
+		<picture></picture>
+		<coordinates>994,1000</coordinates>
+	</facility>
+</data>

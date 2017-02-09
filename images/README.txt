@@ -1,0 +1,1 @@
+All media has been removed, to keep the file size of this zip archive down. 
